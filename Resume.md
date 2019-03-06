@@ -6,10 +6,10 @@ ________________
 **Web & Backend Development**
 Technical Expertise
 
-| Tables        | Are           | Cool  |
+| SkillSet        | Expertise           | Cool  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
+|Database / Frameworks / Technologies| MongoDB| SpringBoot |
+|Programming Knowledge|Python|Java|
 | zebra stripes | are neat      |    $1 |
 
 
