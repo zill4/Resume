@@ -18,7 +18,7 @@ ________________
 42 Silicon Valley, Fremont, CA         June 2018  - June 2019 <br/>
 De Anza College, Cupertino, CA September 2015 - June 2018 <br/>
 **Experience**
-| Company | Position | Location | Period | Summary 
+| Company | Position | Location | Period | Summary |
 |:-------------:|:-------------:|:-----:|:-----:|:-----:|
 |SocialEye | CEO | Fremont, CA | January 2019 - Present | | <br/>
 |G8 Brand| COO | Fremont, CA | October 2018 - Present | | <br/>
