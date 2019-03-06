@@ -5,6 +5,7 @@ ________________
 
 **Web & Backend Development**
 Technical Expertise
+        |         SkillSet                   | Expertise|          |        |        |        |
         |------------------------------------|:--------:|:--------:|:------:|:------:|-------:|
         |Database / Frameworks / Technologies| MongoDB | SpringBoot| Flask | Angular | AWS EC2|
         |Programming Knowledge| Python| Java | C | Javascript | CSS / HTML |
