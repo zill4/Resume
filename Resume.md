@@ -1,5 +1,5 @@
 ## Justin L. Crisp
-6600 Dumbarton Circle, Fremont, CA 94555 |   (949) 873-3619   |   justincrisp@crispcode.io   |  http://justincrisp.com   |   https://www.crispcode.io <br/>
+6600 Dumbarton Circle, Fremont, CA 94555 |   (949) 873-3619   |   justincrisp@crispcode.io   |   https://www.crispcode.io <br/>
 ________________
 
 
@@ -17,6 +17,7 @@ ________________
 
 42 Silicon Valley, Fremont, CA         June 2018  - June 2019 <br/>
 De Anza College, Cupertino, CA September 2015 - June 2018 <br/>
+
 **Experience**
 
 | Company | Position | Location | Period | Summary |
