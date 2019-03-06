@@ -32,7 +32,7 @@ ________________
 ## Projects
 
 **SocialEye**: [SocialEye Source](https://github.com/zill4/SocialEye/)<br/>
-&nbsp;&nbsp;&nbsp;Summary: The beginnings of SocialEye created with a Flask backend, hosted on AWS, with vanilla JS/HTML/CSS on the frontend web extension<br/>
+&nbsp;&nbsp;&nbsp;Summary: The beginnings of SocialEye created with a Flask backend, hosted on AWS, with vanilla JS/HTML/CSS on the frontend web extension.<br/>
 **SocialEye Chrome Store**: [SocialEye Download](https://chrome.google.com/webstore/detail/socialeye/jonjlomkbdkacgolkdkpffmdpklnlcpp/)<br/>
 **MindMap**: [MindMap BlockChain Project](https://github.com/zill4/Social_EYE/)<br/>
 &nbsp;&nbsp;&nbsp;Summary: An Ethereum BlockChain project that creates notes and adds them to the blockchain for storage.<br/>
