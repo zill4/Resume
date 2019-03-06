@@ -6,11 +6,11 @@ ________________
 **Web & Backend Development**
 Technical Expertise
 
-| SkillSet        | Expertise           | Cool  |
-| ------------- |:-------------:| -----:|
-|Database / Frameworks / Technologies| MongoDB| SpringBoot |
-|Programming Knowledge|Python|Java|
-| zebra stripes | are neat      |    $1 |
+| SkillSet        | Expertise           | Cool  | Cool  |
+| ------------- |:-------------:| -----:| -----:|
+|Database / Frameworks / Technologies| MongoDB| SpringBoot | SpringBoot |
+|Programming Knowledge|Python|Java|Java|
+
 
 
         |         SkillSet                   | Expertise|    a      |   v     |     c   |    c    |
