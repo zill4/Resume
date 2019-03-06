@@ -21,10 +21,10 @@ De Anza College, Cupertino, CA September 2015 - June 2018 <br/>
 
 | Company | Position | Location | Period | Summary |
 |:-------------:|:-------------:|:-----:|:-----:|:-----:|
-|SocialEye | CEO | Fremont, CA | January 2019 - Present | |
-|G8 Brand| COO | Fremont, CA | October 2018 - Present | |
-|Code For Fun | Account Manager| Fremont, CA | February 2019 - Present | |
-|RingCentral | Product Analyst | Belmont, CA | August 2017 - June 2019 | |
+|SocialEye | CEO | Fremont, CA | January 2019 - Present | SocialEye is a Platform For Ethical Business |
+|G8 Brand| COO | Fremont, CA | October 2018 - Present | G8 is clothing for Gamers, オタク, and Hackers |
+|Code For Fun | Account Manager| Fremont, CA | February 2019 - Present | Teaching K-12 Computer Literacy |
+|RingCentral | Product Analyst | Belmont, CA | August 2017 - June 2019 | Support Product team with analyze NPS metrics using Machine Learning|
 
 ________________
 
