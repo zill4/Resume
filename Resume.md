@@ -6,10 +6,11 @@ ________________
 **Web & Backend Development**
 Technical Expertise
 
-| SkillSet        | Expertise           | Cool  | Cool  |
-| ------------- |:-------------:| -----:| -----:|
-|Database / Frameworks / Technologies| MongoDB| SpringBoot | SpringBoot |
-|Programming Knowledge|Python|Java|Java|
+| SkillSet        | Expertise           | Tier 0  | 1  |2  |3  |
+| ------------- |:-------------:| -----:| -----:|-----:|-----:|
+|Database / Frameworks / Technologies| MongoDB| SpringBoot | Flask |Angular |AWS EC2 |
+|Programming Knowledge|Python|Java|C|Javascript|CSS/HTML|
+
 
 
 
