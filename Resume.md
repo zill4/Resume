@@ -18,12 +18,14 @@ ________________
 42 Silicon Valley, Fremont, CA         June 2018  - June 2019 <br/>
 De Anza College, Cupertino, CA September 2015 - June 2018 <br/>
 **Experience**
+
 | Company | Position | Location | Period | Summary |
 |:-------------:|:-------------:|:-----:|:-----:|:-----:|
-|SocialEye | CEO | Fremont, CA | January 2019 - Present | | <br/>
-|G8 Brand| COO | Fremont, CA | October 2018 - Present | | <br/>
-|Code For Fun | Account Manager| Fremont, CA | February 2019 - Present | | <br/>
-|RingCentral | Product Analyst | Belmont, CA | August 2017 - June 2019 | | <br/>
+|SocialEye | CEO | Fremont, CA | January 2019 - Present | |
+|G8 Brand| COO | Fremont, CA | October 2018 - Present | |
+|Code For Fun | Account Manager| Fremont, CA | February 2019 - Present | |
+|RingCentral | Product Analyst | Belmont, CA | August 2017 - June 2019 | |
+
 ________________
 
 ## Projects
