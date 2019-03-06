@@ -32,11 +32,11 @@ ________________
 ## Projects
 
 **SocialEye**: [SocialEye Source](https://github.com/zill4/SocialEye/)<br/>
-Summary: The beginnings of SocialEye created with a Flask backend, hosted on AWS, with vanilla JS/HTML/CSS on the frontend web extension<br/>
+&nbsp;&nbsp;&nbsp;Summary: The beginnings of SocialEye created with a Flask backend, hosted on AWS, with vanilla JS/HTML/CSS on the frontend web extension<br/>
 **SocialEye Chrome Store**: [SocialEye Download](https://chrome.google.com/webstore/detail/socialeye/jonjlomkbdkacgolkdkpffmdpklnlcpp/)<br/>
 **MindMap**: [MindMap BlockChain Project](https://github.com/zill4/Social_EYE/)<br/>
-Summary: An Ethereum BlockChain project that creates notes and adds them to the blockchain for storage.<br/>
+&nbsp;&nbsp;&nbsp;Summary: An Ethereum BlockChain project that creates notes and adds them to the blockchain for storage.<br/>
 **RC Python**: [RingCentral Python API](https://github.com/zill4/RC_Python/)<br/>
-Summary: A tool I used for analyzing message data using the RingCentral API.<br/>
+&nbsp;&nbsp;&nbsp;Summary: A tool I used for analyzing message data using the RingCentral API.<br/>
 **42 Silicon Valley**: [42 Projects](https://github.com/zill4/42_projects/)<br/>
-Summary: A collection of the work I’m doing at 42 currently, everything written in C.<br/>
+&nbsp;&nbsp;&nbsp;Summary: A collection of the work I’m doing at 42 currently, everything written in C.<br/>
